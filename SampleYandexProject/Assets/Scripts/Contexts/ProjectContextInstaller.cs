@@ -1,9 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using Zenject;
 using YG;
-
 
 public class ProjectContextInstaller : MonoInstaller<ProjectContextInstaller>
 {
